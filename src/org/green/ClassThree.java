@@ -7,7 +7,7 @@ public class ClassThree {
 	
 	public void exam() {
 		
-		System.out.println("Eng");
+		System.out.println("Tamil");
 		
 
 	}
