@@ -3,7 +3,7 @@ package org.test;
 public class ClassOne {
 
 	public void sample() {
-	System.out.println("yomitha");
+	System.out.println("saranya");
 
 	}
 	
